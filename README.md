@@ -60,10 +60,13 @@ outperforming anchor-based baselines in cluttered environments.
 > MATLAB-based image segmentation and disease detection model for agricultural AI applications.
 `MATLAB` `K-Means Clustering` `Image Segmentation`
 
+---
+
 ### 🔍 Peer Review
 
 Reviewer for **Microchemical Journal** (Elsevier) — 2025, 2026
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2000--4167-green)](https://orcid.org/0000-0003-2000-4167)
+
 ---
 
 ### 🛠️ Technical Stack
