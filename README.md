@@ -1,136 +1,94 @@
 # Hi, I'm Rishabh Tiwari 👋
 
-## 🎓 Published Computer Vision Researcher | Software Engineer
+## Quality Engineer → SDET | Published AI Researcher
 
-I'm a computer vision professional specializing in object detection, satellite imagery analysis, and deep learning. My research has been published in **IEEE**, **Springer**, and **Wiley** journals.
+I'm a quality engineer building toward a full SDET profile — combining automation engineering, codebase-level contribution, and a research background in computer vision and deep learning. My work sits at the intersection of engineering quality and AI systems.
+
+---
+
+### 💼 Professional Experience
+
+**QA Engineer** @ Factech (Jan 2026 – Present)
+Playwright/TypeScript automation framework, CI-integrated test execution, issue investigation and root-cause analysis on an Angular product. Contributor to dev-side bug resolution and automation stability initiatives.
+
+**Associate Systems Engineer** @ IBM India (Jun 2022 – Jul 2023)
+Software testing and quality assurance for enterprise applications.
+
+**ML Research Intern** @ Collaborative Intelligence (Jun 2021 – May 2022)
+Computer vision research resulting in 5 peer-reviewed publications across IEEE, Springer, and Wiley.
 
 ---
 
 ### 📚 Research Publications
 
 #### 🛰️ [Object Detection on Satellite Imagery using Modified YOLOv4](https://doi.org/10.1111/exsy.13180)
-**Expert Systems (Wiley)** | April 2023  
-[![DOI](https://img.shields.io/badge/DOI-10.1111%2Fexsy.13180-blue)](https://doi.org/10.1111/exsy.13180)
-[![Paper](https://img.shields.io/badge/Paper-Wiley-red)](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13180)
+**Expert Systems (Wiley)** | April 2023
 
-> Engineered a YOLOv4‑modified model for efficient small‑object detection in satellite imagery, improving accuracy and inference speed.
+> Engineered a YOLOv4-modified model for efficient small-object detection in satellite imagery, improving accuracy and inference speed.
 
-**Key Contributions:**
-- 🎯 Modified YOLO architecture for satellite‑scale imagery
-- ⚡ Improved detection speed and accuracy
-- 🗺️ Applications in border surveillance and urban development monitoring
-
-**Tech Stack:** `YOLOv4` `TensorFlow` `Computer Vision` `Satellite Imagery` `Object Detection`
+`YOLOv4` `TensorFlow` `Computer Vision` `Satellite Imagery`
 
 ---
 
-#### ♻️ [WasteDet: Anchor‑Free Detection for Waste Management](https://doi.org/10.1109/CISES54857.2022.9844399)
-**IEEE CISES Conference** | January 2022  
-[![DOI](https://img.shields.io/badge/DOI-10.1109%2FCISES54857.2022.9844399-blue)](https://doi.org/10.1109/CISES54857.2022.9844399)
+#### ♻️ [WasteDet: Anchor-Free Detection for Waste Management](https://doi.org/10.1109/CISES54857.2022.9844399)
+**IEEE CISES Conference** | January 2022
 
-> Proposed a novel anchor‑free detection algorithm tailored for waste object recognition, outperforming anchor‑based models in cluttered environments.
+> Proposed a novel anchor-free detection algorithm for waste object recognition, outperforming anchor-based models in cluttered environments.
 
-**Key Contributions:**
-- ♻️ Anchor‑free detection approach
-- 📊 Outperformed anchor‑based models in cluttered environments
-- 🌍 Applications in sustainable waste management
-
-**Tech Stack:** `Object Detection` `Anchor‑Free Models` `Waste Management` `Computer Vision`
+`Object Detection` `Anchor-Free Models` `Computer Vision`
 
 ---
 
 #### 🌱 [Computer Vision and Deep Learning for Waste Management Systems](https://doi.org/10.1109/ICACITE53722.2022.9823449)
-**IEEE ICACITE Conference** | April 2022  
-[![DOI](https://img.shields.io/badge/DOI-10.1109%2FICACITE53722.2022.9823449-blue)](https://doi.org/10.1109/ICACITE53722.2022.9823449)
+**IEEE ICACITE Conference** | April 2022
 
-> Designed and optimized a CNN‑based algorithm for automated waste classification, enhancing automation in municipal waste processing.
+> Designed and optimized a CNN-based algorithm for automated waste classification.
 
-**Key Contributions:**
-- 🌱 Automated waste classification system
-- 🤖 Real‑world deployment considerations
-- 📊 Improved waste management efficiency
-
-**Tech Stack:** `Deep Learning` `Computer Vision` `Classification` `Environmental AI`
+`Deep Learning` `CNN` `Classification`
 
 ---
 
 #### ✈️ [Detection of Camouflaged Drones Using Computer Vision](https://doi.org/10.1109/Confluence52989.2022.9734191)
-**IEEE Confluence Conference** | January 2022  
-[![DOI](https://img.shields.io/badge/DOI-10.1109%2FConfluence52989.2022.9734191-blue)](https://doi.org/10.1109/Confluence52989.2022.9734191)
+**IEEE Confluence Conference** | January 2022
 
-> Developed a CNN‑based UAV detection model for camouflaged and low‑visibility scenarios, addressing surveillance and defense challenges.
+> Developed a CNN-based UAV detection model for camouflaged and low-visibility scenarios. 15% improvement in detection accuracy.
 
-**Key Contributions:**
-- 🎯 15% improvement in detection accuracy
-- 🔍 Novel approach to camouflaged object detection
-- 🛡️ Applications in security and defense
-
-**Tech Stack:** `CNN` `Object Detection` `UAV Detection` `Computer Vision`
+`CNN` `Object Detection` `UAV Detection`
 
 ---
 
-#### 🍎 [Apple Fruit Disease Detection Using K‑Means Clustering](https://doi.org/10.1007/978-981-16-0695-3_9)
-**Springer Conference Proceedings** | October 2021  
-[![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--981--16--0695--3__9-blue)](https://doi.org/10.1007/978-981-16-0695-3_9)
+#### 🍎 [Apple Fruit Disease Detection Using K-Means Clustering](https://doi.org/10.1007/978-981-16-0695-3_9)
+**Springer Conference Proceedings** | October 2021
 
-> Created MATLAB‑based image segmentation and disease detection model for apple fruits, achieving improved classification accuracy.
+> MATLAB-based image segmentation and disease detection model for agricultural AI applications.
 
-**Key Contributions:**
-- 🌱 Agricultural AI application
-- 📈 Accuracy improvement through clustering
-- 🔬 K‑Means segmentation methodology
-
-**Tech Stack:** `MATLAB` `K‑Means Clustering` `Image Segmentation` `Neural Networks`
+`MATLAB` `K-Means Clustering` `Image Segmentation`
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Technical Stack
 
-**Computer Vision & ML:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat)
+**Quality Engineering:**
+`Playwright` `Selenium` `Java` `TypeScript` `REST API Testing` `GitHub Actions` `CI/CD` `BDD/Gherkin`
 
-**Programming:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**AI / Research:**
+`Python` `TensorFlow` `PyTorch` `OpenCV` `YOLO` `RAG` `LLMs`
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+**Development:**
+`Angular` `Node.js` `SQL` `Docker` `Git`
 
 ---
 
-### 💼 Professional Experience
+### 🔭 Currently
 
-**Associate Systems Engineer** @ IBM India (Jun 2022 - Jul 2023)  
-Software testing and quality assurance for enterprise applications
-
-**ML Research Intern** @ Collaborative Intelligence (Jun 2021 - May 2022)  
-Computer vision research resulting in 5 peer‑reviewed publications
+- Building toward a QE/SDET profile — automation framework design, API validation, and codebase-level contribution on an Angular/TypeScript product
+- Exploring quality engineering for AI-powered systems, bridging my research background with modern test engineering
+- Open source contributor — merged PRs on a production Next.js/Node.js/SQLite application
 
 ---
 
-### 📫 Connect With Me
+### 📫 Connect
 
-[![Email](https://img.shields.io/badge/Email-rishabhofficial244%40gmail.com-red)](mailto:rishabhofficial244@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-green)](https://scholar.google.com/yourprofile)
-
----
-
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh0282&show_icons=true&theme=radical)
-
----
-
-### 🎯 Currently
-
-- 🔭 Building ML/CV portfolio projects
-- 🌱 Exploring latest YOLO architectures (YOLOv8, YOLOv11)
-- 💬 Open to opportunities in Computer Vision, ML Engineering, and Image Annotation
-- 📍 Based in Kolkata, India | Open to relocation
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/iamrishabh27)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-35%20Citations-green)](https://scholar.google.com/citations?user=xu-c9WIAAAAJ)
+[![Email](https://img.shields.io/badge/Email-rishabhofficial244@gmail.com-red)](mailto:rishabhofficial244@gmail.com)
